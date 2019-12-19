@@ -1,0 +1,48 @@
+{
+    "name": "Sapience",
+    "description": "automated and modern API security testing",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19990-sapience.jpg",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/sapience\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Sapience",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19990-sapience.jpg",
+            "humanURL": "https:\/\/sapience.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/sapience-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/sapience-therapeutics"
+        },
+        {
+            "type": "Email",
+            "url": "hello@sapience.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/sapienceio"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/sapience.io\/"
+        }
+    ]
+}
